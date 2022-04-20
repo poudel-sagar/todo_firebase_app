@@ -20,7 +20,7 @@ class _MyAppState extends State<MyApp> {
   String input = "";
   @override
   void initState() {
-    // TODO: implement initState
+    // TODO: implementt initState
     super.initState();
     todos.add("item");
     todos.add("item");
